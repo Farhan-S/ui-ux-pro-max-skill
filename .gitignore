@@ -43,11 +43,10 @@ out/
 .turbo/
 
 # Environment
-.env
-.env.local
 .env.*.local
 
 # Local settings
 .claude/settings.local.json
 .claude/session-state/
 ui-ux-pro-max-website/*
+config.bat
